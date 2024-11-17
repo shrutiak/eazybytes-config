@@ -4,7 +4,7 @@ build:
 loans:
   message: "Welcome to EazyBank loans related docker QA APIs "
   contactDetails:
-    name: "Cyrano Marita - QA Lead"
+    name: "Abhijit Marita - QA Lead"
     email: "cyrano@eazybank.com"
   onCallSupport:
     - (785) 545-6565
