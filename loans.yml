@@ -2,7 +2,7 @@ build:
  version: 3.0
  
 loans:
-  message: "Welcome to EazyBank loans related docker APIs "
+  message: "Welcome to EazyBank loans related local docker APIs "
   contactDetails:
     name: "Shruti Grega - Developer"
     email: "amaal@eazybank.com"
