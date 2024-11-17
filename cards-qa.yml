@@ -4,7 +4,7 @@ build:
 cards:
   message: "Welcome to EazyBank cards related docker QA APIs "
   contactDetails:
-    name: "Cherryl Pankaj - QA Lead"
+    name: "Neha Pankaj - QA Lead"
     email: "cherryl@eazybank.com"
   onCallSupport:
     - (310) 875-4367
